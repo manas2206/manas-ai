@@ -51,8 +51,8 @@ const Hero = () => {
           transition={{ delay: 0.6 }}
           style={styles.desc}
         >
-          I build intelligent systems using Machine Learning, Computer Vision,
-          and LLM-based architectures.
+          Building real-world AI solutions using Python, Machine Learning, and Computer Vision
+
         </motion.p>
 
         {/* ✅ SEARCH BAR */}
