@@ -7,7 +7,8 @@ const skills = [
   { title: "Computer Vision", items: "OpenCV" },
   { title: "NLP & LLMs", items: "RAG, Embeddings" },
   { title: "Databases", items: "MySQL, MongoDB" },
-  { title: "Web & Deployment", items: "HTML, CSS, React, Flask, Streamlit" },
+  { title: "Web & Deployment", items: "HTML, CSS, React, Flask, Streamlit, Vercel" },
+  {title: "Tools", items: "Git, VS Code, Jupyter"},
   {title: "Soft Skills", items: "Communication, Interpersonal Skills, Analytical Thinking, Attention to Detail, Team Collaboration"},
 ];
 
