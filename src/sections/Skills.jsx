@@ -8,7 +8,7 @@ const skills = [
   { title: "NLP & LLMs", items: "RAG, Embeddings" },
   { title: "Databases", items: "MySQL, MongoDB" },
   { title: "Web & Deployment", items: "HTML, CSS, React, Flask, Streamlit" },
-  {title: "Soft Skills", items: "Communication, Interpersonal Skills, Analytical Thinking, Attention to Detail, Team Collaboration},
+  {title: "Soft Skills", items: "Communication, Interpersonal Skills, Analytical Thinking, Attention to Detail, Team Collaboration"},
 ];
 
 const Skills = () => {
