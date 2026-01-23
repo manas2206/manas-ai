@@ -10,6 +10,10 @@ const certifications = [
     title: "Data Analytics",
     platform: "Coursera",
   },
+  {
+    title: "SQL",
+    plateform: "HackerRank",
+  },
 ];
 
 const Certifications = () => {
