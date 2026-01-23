@@ -3,11 +3,12 @@ import { motion } from "framer-motion";
 
 const skills = [
   { title: "Programming", items: "Python, C++, SQL" },
-  { title: "Data & ML", items: "Pandas, NumPy, Scikit-learn, TensorFlow" },
+  { title: "Data & ML", items: "Pandas, NumPy, Microsoft Excel, Power BI, Scikit-learn, TensorFlow" },
   { title: "Computer Vision", items: "OpenCV" },
   { title: "NLP & LLMs", items: "RAG, Embeddings" },
   { title: "Databases", items: "MySQL, MongoDB" },
   { title: "Web & Deployment", items: "HTML, CSS, React, Flask, Streamlit" },
+  {title: "Soft Skills", items: "Communication, Interpersonal Skills, Analytical Thinking, Attention to Detail, Team Collaboration},
 ];
 
 const Skills = () => {
