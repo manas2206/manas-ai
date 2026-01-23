@@ -51,7 +51,7 @@ const Hero = () => {
           transition={{ delay: 0.6 }}
           style={styles.desc}
         >
-          Building real-world AI solutions using Python, Machine Learning, and Computer Vision
+          Blending Machine Learning, backend development, and real-world problem solving.
 
         </motion.p>
 
