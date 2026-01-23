@@ -12,7 +12,7 @@ const certifications = [
   },
   {
     title: "SQL",
-    plateform: "HackerRank",
+    platform: "HackerRank",
   },
 ];
 
