@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const skills = [
-  { title: "Programming", items: "Python, SQL" },
+  { title: "Programming", items: "Python, C++, SQL" },
   { title: "Data & ML", items: "Pandas, NumPy, Scikit-learn, TensorFlow" },
   { title: "Computer Vision", items: "OpenCV" },
   { title: "NLP & LLMs", items: "RAG, Embeddings" },
