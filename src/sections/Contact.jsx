@@ -35,7 +35,7 @@ const Contact = () => {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.7 }}
         >
-          <strong>Location:</strong> Jaunpur, Uttar Pradesh, India
+          <strong>Location:</strong> Sohna, Haryana, India
         </motion.p>
 
         <motion.div
