@@ -5,7 +5,7 @@ const experiences = [
   {
     role: "Software Developer",
     company: "Vinayan India Consulting & Services Pvt. Ltd.",
-    period: "May 2025 – Nov 2025 | Delhi, India",
+    period: "May 2025 – December 2025 | Delhi, India",
     points: [
       "Developed Python automation pipeline for vehicle e-challan processing.",
       "Implemented real-time vehicle detection and license plate recognition.",
