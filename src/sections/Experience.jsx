@@ -13,8 +13,8 @@ const experiences = [
     ],
   },
   {
-    role: "Data Science Intern",
-    company: "CRIS",
+    role: "Software Developer Intern",
+    company: "Center For Railway Information System (CRIS)",
     period: "Jul 2024 – Sep 2024 | Delhi, India",
     points: [
       "Built ML models for freight demand forecasting.",
